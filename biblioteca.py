@@ -68,6 +68,7 @@ class Prestamo():
 			print("Libro no encontrado.")
 		self.auxError=False
 	def devolverLibro(self):
+		pass
 
 
 prestador=Prestamo()
