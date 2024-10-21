@@ -1,0 +1,17 @@
+PRODUCTO;CODIGO;PRODUCTOINICIAL;999.0;999;
+LIBRO;A1B2;Cien años de soledad;45.99;10;Gabriel García Márquez;Editorial Sudamericana
+LIBRO;D3F4;Don Quijote de la Mancha;39.5;15;Miguel de Cervantes;Francisco de Robles
+LIBRO;G5H6;El principito;25.75;20;Antoine de Saint-Exupéry;Reynal & Hitchcock
+LIBRO;J7K8;1984;30.99;12;George Orwell;Secker & Warburg
+LIBRO;L9M0;Crimen y castigo;29.99;8;Fiódor Dostoyevski;The Russian Messenger
+REVISTA;N1O2;National Geographic;12.5;30;202;15/09/2023
+REVISTA;P3Q4;Time;8.99;50;3205;01/10/2023
+REVISTA;R5S6;Scientific American;10.25;40;503;22/08/2023
+REVISTA;T7U8;Forbes;9.99;25;1078;05/07/2023
+REVISTA;V9W0;The Economist;11.5;35;1948;30/09/2023
+PAPELERIA;X1Y2;Lápiz HB;0.5;100;
+PAPELERIA;Z3A4;Cuaderno de 100 hojas;2.99;50;
+PAPELERIA;B5C6;Bolígrafo azul;1.2;75;
+PAPELERIA;D7E8;Marcador permanente negro;1.75;60;
+PAPELERIA;F9G0;Resaltador amarillo;1.1;80;
+LIBRO;AF29;La Peste;39.0;1;Albert Camus;Planeta
